@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "RIfky Marcelio",
+	"author": "Rifky Marcelio",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
